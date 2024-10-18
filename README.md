@@ -57,7 +57,6 @@ Once the knowledge base is created, you will see a directory called ```faiss_ind
 - ```LLMhelper.py```: This file contains all the Langchain code.
 - ```requirements.txt```: A list of required Python packages for the project.
 - ```.env```: Configuration file for storing your Google API key.
-- 
 
 
    
