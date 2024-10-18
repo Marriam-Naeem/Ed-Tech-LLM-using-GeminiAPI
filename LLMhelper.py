@@ -57,13 +57,7 @@ def generate_answer(query):
     
     # Extract text using the correct attribute 'page_content'
     text = " \n".join([doc.page_content for doc in relevant_text])
-    print("\nRelevant Text:")
-    print(text)
-    
     prompt = make_rag_prompt(query, relevant_passage=text)
-    print("\nGenerated Prompt:")
-    print(prompt)
-    
     answer = generate_response(prompt)
     return answer
 
