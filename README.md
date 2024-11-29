@@ -4,7 +4,7 @@ This is an end-to-end LLM project based on Google Gemini API and Langchain. It i
 
 ## Tools and Technologies Used
 
-- Langchain + Google Palm: LLM-based Q&A
+- Langchain + Google Gemini: LLM-based Q&A
 - Streamlit: User Interface
 - Google Generative AI Embeddings: Text embeddings
 - FAISS: Vector Database
