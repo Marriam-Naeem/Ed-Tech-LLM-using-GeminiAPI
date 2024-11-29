@@ -1,6 +1,6 @@
 # Edtech LLM - A Q&A Based Chatbot to Help an Ed-tech Website Using Gemini API and Langchain
 
-This is an end-to-end LLM project based on Google Palm and Langchain. I have built a Q&A system for an e-learning company. This system will provide a Streamlit-based user interface for students where they can ask questions and receive answers.
+This is an end-to-end LLM project based on Google Gemini API and Langchain. It is built using an open-source FAQs dataset. This system will provide a Streamlit-based user interface for students where they can ask questions and receive answers.
 
 ## Tools and Technologies Used
 
